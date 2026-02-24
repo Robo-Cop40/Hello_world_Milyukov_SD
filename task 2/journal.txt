@@ -1,0 +1,9 @@
++--------------------------------------------------+
+|          Электронный лабораторный журнал         |
++--------------------------------------------------+
+| ФИО исследователя : к& C:/Users/allos/anaconda3/python.exe "c:/Users/allos/OneDrive/Documents/task 2-0/Task 2-3_lab_journal.py"
+| Дата : п& C:/Users/allos/anaconda3/python.exe "c:/Users/allos/OneDrive/Documents/task 2-0/Task 2-3_lab_journal.py"
+| Эксперимент : п& C:/Users/allos/anaconda3/python.exe "c:/Users/allos/OneDrive/Documents/task 2-0/Task 2-3_lab_journal.py"
++--------------------------------------------------+
+| Вывод: ук& C:/Users/allos/anaconda3/python.exe "c:/Users/allos/OneDrive/Documents/task 2-0/Task 2-3_lab_journal.py"
++--------------------------------------------------+
