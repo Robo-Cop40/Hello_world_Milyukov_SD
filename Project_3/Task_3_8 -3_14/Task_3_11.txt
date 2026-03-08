@@ -1,0 +1,19 @@
+#!/bin/bash
+
+ {
+        if [[ $EUID -ne 0 ]]; then
+        echo "Ошибка" >&2
+        echo "Текущий UID: $EUID" >&2
+        exit 1
+    fi
+}
+
+main() {
+        check_root
+    
+        echo "Запуск от имени суперпользователя"
+    echo "Выполняются привилегированные операции..."
+    
+    }
+
+main

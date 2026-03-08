@@ -1,0 +1,825 @@
+﻿**********************
+Начало записи сценария Windows PowerShell
+Время начала: 20260309012602
+Имя пользователя: LAPTOP-U031TDFB\allos
+Запуск от имени пользователя: LAPTOP-U031TDFB\allos
+Имя конфигурации: 
+Компьютер: LAPTOP-U031TDFB (Microsoft Windows NT 10.0.26200.0)
+Ведущее приложение: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+ИД процесса: 15708
+PSVersion: 5.1.26100.7705
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.26100.7705
+BuildVersion: 10.0.26100.7705
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+Транскрибирование запущено, выходной файл task_3-2/lab_final_report.txt
+LAPTOP-U031TDFB
+
+Name                           Value
+----                           -----
+PSVersion                      5.1.26100.7705
+PSEdition                      Desktop
+PSCompatibleVersions           {1.0, 2.0, 3.0, 4.0...}
+BuildVersion                   10.0.26100.7705
+CLRVersion                     4.0.30319.42000
+WSManStackVersion              3.0
+PSRemotingProtocolVersion      2.3
+SerializationVersion           1.1.0.1
+
+Начато сканирование системы.  Этот процесс может занять некоторое время.
+
+
+Для завершения восстановления системы требуется перезагрузка.  Перезапустите систему
+Windows и выполните sfc еще раз.
+
+Id      : 17840
+Handles : 1366
+CPU     : 5,21875
+SI      : 19
+Name    : PhoneExperienceHost
+
+
+Id      : 7704
+Handles : 1161
+CPU     : 7,8125
+SI      : 19
+Name    : StartMenuExperienceHost
+
+
+Id      : 14536
+Handles : 1104
+CPU     : 4,796875
+SI      : 19
+Name    : SearchHost
+
+
+Id      : 984
+Handles : 706
+CPU     : 0,703125
+SI      : 19
+Name    : ShellExperienceHost
+
+
+Id      : 19892
+Handles : 957
+CPU     : 9,890625
+SI      : 19
+Name    : TextInputHost
+
+
+Id      : 10192
+Handles : 777
+CPU     : 9,515625
+SI      : 19
+Name    : sihost
+
+
+Id      : 11772
+Handles : 441
+CPU     : 0,09375
+SI      : 19
+Name    : ShellHost
+
+
+Id      : 7080
+Handles : 328
+CPU     : 0,15625
+SI      : 19
+Name    : backgroundTaskHost
+
+
+Id      : 3980
+Handles : 846
+CPU     : 475,765625
+SI      : 0
+Name    : svchost
+
+
+Id      : 4412
+Handles : 550
+CPU     : 1,5
+SI      : 19
+Name    : svchost
+
+
+Id      : 3904
+Handles : 418
+CPU     : 468,4375
+SI      : 0
+Name    : svchost
+
+
+Id      : 1608
+Handles : 1390
+CPU     : 779,109375
+SI      : 0
+Name    : svchost
+
+
+Id      : 19012
+Handles : 532
+CPU     : 1,984375
+SI      : 19
+Name    : svchost
+
+
+Id      : 13464
+Handles : 332
+CPU     : 0,78125
+SI      : 19
+Name    : svchost
+
+
+Id      : 9884
+Handles : 317
+CPU     : 2,59375
+SI      : 19
+Name    : svchost
+
+
+Id      : 4064
+Handles : 359
+CPU     : 377,4375
+SI      : 0
+Name    : svchost
+
+
+Id      : 15780
+Handles : 259
+CPU     : 139,453125
+SI      : 0
+Name    : svchost
+
+
+Id      : 19508
+Handles : 272
+CPU     : 0,296875
+SI      : 19
+Name    : svchost
+
+
+Id      : 5264
+Handles : 310
+CPU     : 115,21875
+SI      : 0
+Name    : svchost
+
+
+Id      : 13268
+Handles : 457
+CPU     : 23,125
+SI      : 0
+Name    : svchost
+
+
+Id      : 13216
+Handles : 273
+CPU     : 0,8125
+SI      : 19
+Name    : dllhost
+
+
+Id      : 14676
+Handles : 418
+CPU     : 0,140625
+SI      : 0
+Name    : SearchProtocolHost
+
+
+Id      : 10876
+Handles : 462
+CPU     : 77,109375
+SI      : 0
+Name    : svchost
+
+
+Id      : 4928
+Handles : 506
+CPU     : 1015,140625
+SI      : 0
+Name    : svchost
+
+
+Id      : 11516
+Handles : 493
+CPU     : 213,515625
+SI      : 0
+Name    : svchost
+
+
+Id      : 16736
+Handles : 3138
+CPU     : 168,75
+SI      : 0
+Name    : svchost
+
+
+Id      : 18208
+Handles : 284
+CPU     : 0,125
+SI      : 0
+Name    : svchost
+
+
+Id      : 10784
+Handles : 522
+CPU     : 26,828125
+SI      : 0
+Name    : svchost
+
+
+Id      : 9768
+Handles : 204
+CPU     : 0,375
+SI      : 19
+Name    : svchost
+
+
+Id      : 1776
+Handles : 1471
+CPU     : 697,1875
+SI      : 0
+Name    : svchost
+
+
+Id      : 1768
+Handles : 474
+CPU     : 1175,421875
+SI      : 0
+Name    : svchost
+
+
+Id      : 5188
+Handles : 515
+CPU     : 241
+SI      : 0
+Name    : svchost
+
+
+Id      : 4136
+Handles : 388
+CPU     : 49,984375
+SI      : 0
+Name    : svchost
+
+
+Id      : 3432
+Handles : 533
+CPU     : 62,421875
+SI      : 0
+Name    : svchost
+
+
+Id      : 18376
+Handles : 265
+CPU     : 0,171875
+SI      : 19
+Name    : svchost
+
+
+Id      : 5640
+Handles : 240
+CPU     : 0,328125
+SI      : 19
+Name    : taskhostw
+
+
+Id      : 4244
+Handles : 592
+CPU     : 54,609375
+SI      : 0
+Name    : svchost
+
+
+Id      : 2660
+Handles : 1014
+CPU     : 112,671875
+SI      : 0
+Name    : svchost
+
+
+Id      : 5208
+Handles : 437
+CPU     : 10,453125
+SI      : 0
+Name    : svchost
+
+
+Id      : 18536
+Handles : 148
+CPU     : 0,0625
+SI      : 19
+Name    : svchost
+
+
+Id      : 15664
+Handles : 325
+CPU     : 7
+SI      : 0
+Name    : svchost
+
+
+Id      : 2484
+Handles : 288
+CPU     : 619,09375
+SI      : 0
+Name    : WUDFHost
+
+
+Id      : 4576
+Handles : 550
+CPU     : 53,703125
+SI      : 0
+Name    : svchost
+
+
+Id      : 20580
+Handles : 200
+CPU     : 0,03125
+SI      : 0
+Name    : SearchFilterHost
+
+
+Id      : 1688
+Handles : 573
+CPU     : 937,21875
+SI      : 0
+Name    : WUDFHost
+
+
+Id      : 1016
+Handles : 165
+CPU     : 0,25
+SI      : 0
+Name    : svchost
+
+
+Id      : 3320
+Handles : 365
+CPU     : 43,9375
+SI      : 0
+Name    : svchost
+
+
+Id      : 12208
+Handles : 181
+CPU     : 0,109375
+SI      : 19
+Name    : svchost
+
+
+Id      : 3944
+Handles : 405
+CPU     : 19,46875
+SI      : 0
+Name    : svchost
+
+
+Id      : 6236
+Handles : 155
+CPU     : 0,234375
+SI      : 19
+Name    : svchost
+
+
+Id      : 1496
+Handles : 262
+CPU     : 8,5
+SI      : 0
+Name    : svchost
+
+
+Id      : 2496
+Handles : 319
+CPU     : 86,53125
+SI      : 0
+Name    : svchost
+
+
+Id      : 18860
+Handles : 173
+CPU     : 0,015625
+SI      : 0
+Name    : svchost
+
+
+Id      : 4272
+Handles : 274
+CPU     : 10,609375
+SI      : 0
+Name    : svchost
+
+
+Id      : 3504
+Handles : 254
+CPU     : 1095,125
+SI      : 0
+Name    : svchost
+
+
+Id      : 15240
+Handles : 134
+CPU     : 0,296875
+SI      : 0
+Name    : svchost
+
+
+Id      : 1828
+Handles : 573
+CPU     : 51,703125
+SI      : 0
+Name    : svchost
+
+
+Id      : 21952
+Handles : 43
+CPU     : 0,484375
+SI      : 19
+Name    : fontdrvhost
+
+
+Id      : 2040
+Handles : 153
+CPU     : 32,625
+SI      : 0
+Name    : svchost
+
+
+Id      : 16448
+Handles : 269
+CPU     : 8,046875
+SI      : 0
+Name    : svchost
+
+
+Id      : 3200
+Handles : 249
+CPU     : 78,65625
+SI      : 0
+Name    : svchost
+
+
+Id      : 844
+Handles : 229
+CPU     : 10,421875
+SI      : 0
+Name    : svchost
+
+
+Id      : 2852
+Handles : 507
+CPU     : 15,75
+SI      : 0
+Name    : svchost
+
+
+Id      : 6432
+Handles : 106
+CPU     : 0,03125
+SI      : 19
+Name    : svchost
+
+
+Id      : 5164
+Handles : 400
+CPU     : 6,109375
+SI      : 0
+Name    : svchost
+
+
+Id      : 2252
+Handles : 207
+CPU     : 4,1875
+SI      : 0
+Name    : svchost
+
+
+Id      : 2504
+Handles : 461
+CPU     : 11,640625
+SI      : 0
+Name    : svchost
+
+
+Id      : 2240
+Handles : 265
+CPU     : 8,359375
+SI      : 0
+Name    : svchost
+
+
+Id      : 3360
+Handles : 297
+CPU     : 1108,609375
+SI      : 0
+Name    : WUDFHost
+
+
+Id      : 19692
+Handles : 120
+CPU     : 0,078125
+SI      : 0
+Name    : svchost
+
+
+Id      : 18224
+Handles : 221
+CPU     : 4,875
+SI      : 0
+Name    : svchost
+
+
+Id      : 2716
+Handles : 324
+CPU     : 8,046875
+SI      : 0
+Name    : svchost
+
+
+Id      : 17248
+Handles : 515
+CPU     : 6,9375
+SI      : 0
+Name    : svchost
+
+
+Id      : 18380
+Handles : 288
+CPU     : 9,359375
+SI      : 0
+Name    : svchost
+
+
+Id      : 18020
+Handles : 223
+CPU     : 3,515625
+SI      : 0
+Name    : svchost
+
+
+Id      : 3724
+Handles : 196
+CPU     : 2,484375
+SI      : 0
+Name    : svchost
+
+
+Id      : 2276
+Handles : 426
+CPU     : 4,1875
+SI      : 0
+Name    : svchost
+
+
+Id      : 2148
+Handles : 558
+CPU     : 250,25
+SI      : 0
+Name    : svchost
+
+
+Id      : 4688
+Handles : 212
+CPU     : 1,734375
+SI      : 0
+Name    : svchost
+
+
+Id      : 3528
+Handles : 184
+CPU     : 2,78125
+SI      : 0
+Name    : svchost
+
+
+Id      : 2688
+Handles : 125
+CPU     : 112,546875
+SI      : 0
+Name    : svchost
+
+
+Id      : 13088
+Handles : 153
+CPU     : 1,875
+SI      : 0
+Name    : svchost
+
+
+Id      : 3824
+Handles : 211
+CPU     : 18,421875
+SI      : 0
+Name    : svchost
+
+
+Id      : 8668
+Handles : 256
+CPU     : 5,296875
+SI      : 0
+Name    : svchost
+
+
+Id      : 2208
+Handles : 249
+CPU     : 44,03125
+SI      : 0
+Name    : svchost
+
+
+Id      : 12492
+Handles : 181
+CPU     : 4,546875
+SI      : 0
+Name    : svchost
+
+
+Id      : 3308
+Handles : 131
+CPU     : 2,125
+SI      : 0
+Name    : svchost
+
+
+Id      : 7016
+Handles : 222
+CPU     : 6,734375
+SI      : 0
+Name    : svchost
+
+
+Id      : 4152
+Handles : 226
+CPU     : 3,1875
+SI      : 0
+Name    : svchost
+
+
+Id      : 4172
+Handles : 315
+CPU     : 3
+SI      : 0
+Name    : WUDFHost
+
+
+Id      : 2536
+Handles : 192
+CPU     : 47,625
+SI      : 0
+Name    : svchost
+
+
+Id      : 3812
+Handles : 207
+CPU     : 1,53125
+SI      : 0
+Name    : svchost
+
+
+Id      : 18304
+Handles : 212
+CPU     : 0,96875
+SI      : 0
+Name    : svchost
+
+
+Id      : 8152
+Handles : 140
+CPU     : 1,640625
+SI      : 0
+Name    : AggregatorHost
+
+
+Id      : 4748
+Handles : 186
+CPU     : 6,09375
+SI      : 0
+Name    : svchost
+
+
+Id      : 16280
+Handles : 237
+CPU     : 0,671875
+SI      : 0
+Name    : svchost
+
+
+Id      : 12748
+Handles : 115
+CPU     : 0,78125
+SI      : 0
+Name    : svchost
+
+
+Id      : 4364
+Handles : 288
+CPU     : 15,46875
+SI      : 0
+Name    : WUDFHost
+
+
+Id      : 884
+Handles : 261
+CPU     : 4,71875
+SI      : 0
+Name    : svchost
+
+
+Id      : 14780
+Handles : 322
+CPU     : 0,15625
+SI      : 19
+Name    : backgroundTaskHost
+
+
+Id      : 18792
+Handles : 195
+CPU     : 0,96875
+SI      : 0
+Name    : svchost
+
+
+Id      : 2232
+Handles : 196
+CPU     : 3,75
+SI      : 0
+Name    : svchost
+
+
+Id      : 2560
+Handles : 129
+CPU     : 1,234375
+SI      : 0
+Name    : svchost
+
+
+Id      : 6756
+Handles : 135
+CPU     : 0,875
+SI      : 0
+Name    : svchost
+
+
+Id      : 15744
+Handles : 169
+CPU     : 0,90625
+SI      : 0
+Name    : svchost
+
+
+Id      : 3512
+Handles : 242
+CPU     : 3,984375
+SI      : 0
+Name    : svchost
+
+
+Id      : 23088
+Handles : 326
+CPU     : 0,15625
+SI      : 19
+Name    : backgroundTaskHost
+
+
+Id      : 7832
+Handles : 153
+CPU     : 40,890625
+SI      : 0
+Name    : conhost
+
+
+Id      : 5420
+Handles : 141
+CPU     : 0,84375
+SI      : 0
+Name    : svchost
+
+
+Id      : 16416
+Handles : 157
+CPU     : 0,484375
+SI      : 0
+Name    : svchost
+
+
+Id      : 2012
+Handles : 107
+CPU     : 13,546875
+SI      : 0
+Name    : svchost
+
+
+Id      : 1648
+Handles : 43
+CPU     : 0,3125
+SI      : 0
+Name    : fontdrvhost
+
+**********************
+Конец записи протокола Windows PowerShell
+Время окончания: 20260309012604
+**********************

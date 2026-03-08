@@ -1,0 +1,7 @@
+Source        Destination     IPV4Address      IPV6Address                              Bytes    Time(ms) 
+------        -----------     -----------      -----------                              -----    -------- 
+ПК-101         google.com     142.250.185.78                                           32       12       
+ПК-101         google.com     142.250.185.78                                           32       14       
+ПК-101         google.com     142.250.185.78                                           32       13       
+ПК-101         google.com     142.250.185.78                                           32       15       
+ПК-101         google.com     142.250.185.78     

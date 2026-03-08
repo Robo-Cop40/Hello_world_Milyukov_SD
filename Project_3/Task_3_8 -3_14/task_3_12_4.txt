@@ -1,0 +1,9 @@
+#!/bin/bash
+
+cat > sequences.txt << 'EOF'
+>seq1 ATGCGTACGTTAG
+>seq2 GGCATGCTAGCTA
+>seq3 TTAGCGATCGTAC
+>seq4 CCGTATGCTAGGA
+EOF
+sed 's/ /\t/g' sequences.txt

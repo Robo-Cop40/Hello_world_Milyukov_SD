@@ -1,0 +1,29 @@
+#!/bin/bash
+
+printf "%-15s %-7s %-7s %-7s %-7s\n" "Файл" "A" "T" "G" "C"
+printf "%-15s %-7s %-7s %-7s %-7s\n" "---------------" "-------" "-------" "-------" "-------"
+
+for file in *.fasta; do
+
+        if [ ! -f "$file" ]; then
+                
+        continue # Просто пропускаем эту "не-файловую" итерацию
+    fi
+
+              if [ ! -s "$file" ]; then
+        echo "ВНИМАНИЕ: Файл '$file' пустой. Пропускаем."
+        continue 
+    fi
+
+           
+    sequence=$(grep -v "^>" "$file" | tr -d '\n')
+
+    count_a=$(echo "$sequence" | grep -o "A" | wc -l)
+    count_t=$(echo "$sequence" | grep -o "T" | wc -l)
+    count_g=$(echo "$sequence" | grep -o "G" | wc -l)
+    count_c=$(echo "$sequence" | grep -o "C" | wc -l)
+
+        printf "%-15s %-7s %-7s %-7s %-7s\n" "$file" "$count_a" "$count_t" "$count_g" "$count_c"
+
+done
+

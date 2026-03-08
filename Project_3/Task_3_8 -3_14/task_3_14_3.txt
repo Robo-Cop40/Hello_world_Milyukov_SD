@@ -1,0 +1,27 @@
+#!/bin/bash
+
+awk '
+BEGIN {
+        print "---"
+}
+{
+    sum += $2              
+count++            
+        if (NR == 1) 
+{     
+        max = $2
+    } else if ($2 > max) 
+{
+        max = $2
+    }
+}
+END {
+    print "Сумма всех оценок:", sum
+    if (count > 0) {
+        print "Средняя оценка:", sum / count
+    } else {
+        print "Нет данных для вычисления средней оценки."
+    }
+    print "Максимальная оценка:", max
+}' students.txt
+

@@ -1,0 +1,11 @@
+#!/bin/bash
+
+read -p "Введите ваше имя: " name
+
+read -p "Введите ваш год рождения: " birth_year
+
+current_year=$(date +%Y)
+
+age=$((current_year - birth_year))
+
+echo "Привет, $name!  $age лет."

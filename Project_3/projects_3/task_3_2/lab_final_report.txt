@@ -1,0 +1,27 @@
+LAPTOP-U031TDFB
+
+Name                           Value
+----                           -----
+PSVersion                      5.1.26100.1
+PSEdition                      Desktop
+PSCompatibleVersions           {1.0, 2.0, 3.0, 4.0...}
+BuildVersion                   10.0.26100.1
+CLRVersion                     4.0.30319.42000
+WSManStackVersion              3.0
+PSRemotingProtocolVersion      2.3
+SerializationVersion           1.1.0.1
+
+Beginning system scan.  This process will take some time.
+
+Beginning verification phase of system scan.
+Verification 100% complete.
+
+Windows Resource Protection found corrupt files and successfully repaired
+them. For online repairs, details are included in the CBS log file located at
+windir\Logs\CBS\CBS.log. For example C:\Windows\Logs\CBS\CBS.log. For offline
+repairs, details are included in the log file provided by the /OFFLOGFILE flag.
+
+Handles  NPM(K)    PM(K)      WS(K)     CPU(s)     Id  SI ProcessName
+-------  ------    -----      -----     ------     --  -- -----------
+    123      10     5000       15000       1.23   1234   1 svchost
+     45       5     2000        8000       0.45    567   1 svchost

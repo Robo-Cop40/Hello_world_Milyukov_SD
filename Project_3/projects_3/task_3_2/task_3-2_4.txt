@@ -1,0 +1,8 @@
+Name                                         Length
+----                                         ------
+Anaconda3-2025.12-1-Windows-x86_64           1199680000
+debian-13.3.0-amd64-netinst                   790626304
+VirtualBox-7.2.6a-172322-Win                  177448960
+VSCodeUserSetup-x64-1.109.0                   125915136
+Git-2.53.0-64-bit                              64573440
+Лекция2 (2)                                    11560000
