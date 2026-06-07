@@ -1,0 +1,33 @@
+<!-- R Commander Markdown Template -->
+
+Заменить основной заголовок
+=======================
+
+### allos
+
+### `r as.character(Sys.Date())`
+
+```{r echo=FALSE}
+# включить этот фрагмент кода как есть для установки параметров
+knitr::opts_chunk$set(comment=NA, prompt=TRUE, out.width=750, fig.height=8, fig.width=8)
+library(Rcmdr)
+library(car)
+library(RcmdrMisc)
+```
+
+```{r}
+load("C:/Users/allos/OneDrive/Documents/Project_6/wild_boars.csv")
+```
+
+
+```{r}
+Dataset <- read.table("C:/Users/allos/OneDrive/Documents/Project_6/wild_boars.csv", header=TRUE, 
+  stringsAsFactors=TRUE, sep=",", na.strings="NA", dec=".", strip.white=TRUE)
+```
+
+
+### t-тест для независимых выборок: length_cm~gender
+```{r}
+t.test(length_cm~gender, alternative='two.sided', conf.level=.95, var.equal=FALSE, data=Dataset)
+```
+

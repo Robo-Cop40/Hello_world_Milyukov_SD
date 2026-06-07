@@ -1,0 +1,45 @@
+boar_id:
+  Variance: 3350.00
+  Standard deviation: 57.88
+  Coefficient of variation: 57.59%
+
+age_years:
+  Variance: 4.25
+  Standard deviation: 2.06
+  Coefficient of variation: 44.20%
+
+weight_kg:
+  Variance: 718.08
+  Standard deviation: 26.80
+  Coefficient of variation: 38.42%
+
+length_cm:
+  Variance: 681.50
+  Standard deviation: 26.11
+  Coefficient of variation: 17.43%
+
+shoulder_height_cm:
+  Variance: 137.81
+  Standard deviation: 11.74
+  Coefficient of variation: 14.75%
+
+tusk_length_cm:
+  Variance: 26.13
+  Standard deviation: 5.11
+  Coefficient of variation: 49.87%
+
+litter_size:
+  Variance: 8.10
+  Standard deviation: 2.85
+  Coefficient of variation: 72.74%
+
+health_score:
+  Variance: 279.11
+  Standard deviation: 16.71
+  Coefficient of variation: 22.23%
+
+territory_ha:
+  Variance: 3.60
+  Standard deviation: 1.90
+  Coefficient of variation: 44.71%
+
